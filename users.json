@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "d2d0",
+      "name": "woiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+      "email": "irenedjaya288@gmail.com",
+      "role": "police"
+    },
+    {
+      "id": "0eae",
+      "name": "woiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+      "email": "irenedjaya288@gmail.com",
+      "role": "police"
+    },
+    {
+      "id": "cfa3",
+      "name": "Irene Djaya",
+      "email": "irenedjaya288@gmail.com",
+      "role": "docTOR"
+    },
+    {
+      "id": "1d07",
+      "name": "beb",
+      "email": "johnde@me.com",
+      "role": "mimin"
+    },
+    {
+      "id": "cef3",
+      "name": "beb",
+      "email": "reng@gmail.com",
+      "role": "mimin"
+    },
+    {
+      "id": "5b00",
+      "name": "iii",
+      "email": "i@me.com",
+      "role": "min"
+    },
+    {
+      "id": "2fd8",
+      "name": "aaa",
+      "email": "q@gmail.com",
+      "role": "ppp"
+    }
+  ]
+}
