@@ -1,8 +1,5 @@
-# React + Vite
+First, open a terminal. Then, type npm create vite@latest. Then, type the name of the file that will be used. Then, type cd (file name). Then, type npm install. Then, type npm run dev.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Second, open a terminal in Visual Studio Code. Then, type npm install react-router-dom. Then, type npm install formik yup. Then, type npm install -g json-server.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Finally, type npx json-server --watch users.json.
